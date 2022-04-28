@@ -1,0 +1,19 @@
+---
+title: Ostalgie
+icon: fa-th
+order: 5
+---
+
+<p>Ostalgie ist ein interessantes Phänomen, das sich in Deutschland nach dem Fall der Berliner Mauer ereignete. Hier sind einige Beispiele für ostdeutsche Produkte, an die man sich später erinnerte.</p>
+
+  <div class="row">
+    <div class="4u 12u$(mobile)">
+      <div class="item">
+        <a href="#" class="image fit"><img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Stasi_Barkas_B1000.JPG" alt="Ipsum Feugiat" /></a>
+        <header>
+          <span style='font-weight: bold;'>Stasi-Wagen</span>
+          <p>Die Stasi hatte viele geheime Fahrzeuge, mit denen sie spionierten</p>
+        </header>
+      </div>
+    </div>
+  </div>
