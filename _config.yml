@@ -30,8 +30,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Deutsche Historische Museum
-subtitle: Geschichte von 1832 bis heute.
+title: Historische Museum
+subtitle: 1832 bis Heute.
 description: >- # this means to ignore newlines until "baseurl:"
   Wilkommen zu meinem Digitalprojekt. Sie können
   Artefakte aus der Geschichte auf dieser Seite sehen.
