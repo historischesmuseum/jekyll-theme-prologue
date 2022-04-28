@@ -40,7 +40,7 @@ email: jghaynie@crimson.ua.edu
 avatar: assets/images/avatar.jpg
 
 # You'll want to customize url and baseurl for your own site:
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "www.historischesmuseum.github.io/jekyll-theme-prologue" # the base hostname & protocol for your site
 
 # Social settings
