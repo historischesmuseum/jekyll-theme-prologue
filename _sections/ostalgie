@@ -9,10 +9,77 @@ order: 5
   <div class="row">
     <div class="4u 12u$(mobile)">
       <div class="item">
-        <a href="#" class="image fit"><img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Stasi_Barkas_B1000.JPG" alt="Ipsum Feugiat" /></a>
+        <a href="#" class="image fit"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/%C5%BDuti_trabant_1%2C1.jpg/440px-%C5%BDuti_trabant_1%2C1.jpg" alt="Ipsum Feugiat" /></a>
         <header>
-          <span style='font-weight: bold;'>Stasi-Wagen</span>
-          <p>Die Stasi hatte viele geheime Fahrzeuge, mit denen sie spionierten</p>
+          <span style='font-weight: bold;'>Trabi</span>
+          <p>Der Trabi (oder Trabant) ist das berühmteste ostdeutsche Auto. Es ist ein sehr schlechtes Auto.</p>
+        </header>
+      </div>
+<div class="item">
+        <a href="#" class="image fit"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/D-Ampelmaennchen-gehen-o.jpg/440px-D-Ampelmaennchen-gehen-o.jpg" alt="Ipsum Feugiat" /></a>
+        <header>
+          <span style='font-weight: bold;'>Ost-Ampelmännchen</span>
+          <p>Das ist der ostdeutsche Ampelmännchen. Er wird immer noch in alten ostdeutschen Städten gezeigt.</p>
+        </header>
+      </div>
+<div class="item">
+        <a href="#" class="image fit"><img src="https://i0.wp.com/germanyinusa.com/wp-content/uploads/2018/09/30521949.jpg?resize=1200%2C1234&ssl=1" alt="Ipsum Feugiat" /></a>
+        <header>
+          <span style='font-weight: bold;'>Pittiplatsch und Freunde</span>
+          <p>Pittiplatsch war eine ostdeutsche Kindershow.</p>
+        </header>
+      </div>
+    </div>
+     <div class="4u 12u$(mobile)">
+      <div class="item">
+        <a href="#" class="image fit"><img src="https://i0.wp.com/germanyinusa.com/wp-content/uploads/2018/09/14236959.jpg?resize=1200%2C779&ssl=1" alt="Ipsum Feugiat" /></a>
+        <header>
+          <span style='font-weight: bold;'>Vita Cola</span>
+          <p>Vita Cola war die ostdeutsche Version von Coca Cola</p>
+        </header>
+      </div>
+<div class="item">
+        <a href="#" class="image fit"><img src="https://i0.wp.com/germanyinusa.com/wp-content/uploads/2018/09/8922364.jpg?resize=1200%2C771&ssl=1" alt="Ipsum Feugiat" /></a>
+        <header>
+          <span style='font-weight: bold;'>Sandmännchen</span>
+          <p>Das Sandmännchen kam in DDR-Fernsehen und sang den Kindern nachts ein Lied</p>
+        </header>
+      </div>
+<div class="item">
+        <a href="#" class="image fit"><img src="" alt="Ipsum Feugiat" /></a>
+        <header>
+          <span style='font-weight: bold;'></span>
+          <p></p>
+        </header>
+      </div>
+<div class="item">
+        <a href="#" class="image fit"><img src="https://anotherimg-dazedgroup.netdna-ssl.com/724/azure/another-prod/330/2/332116.jpg" alt="Ipsum Feugiat" /></a>
+        <header>
+          <span style='font-weight: bold;'>Trabant Radio</span>
+          <p>Dies ist ein altes Radio, das in Ostdeutschland produziert wurde.</p>
+        </header>
+      </div>
+    </div>
+     <div class="4u 12u$(mobile)">
+      <div class="item">
+        <a href="#" class="image fit"><img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Stollwerck-chocolate_-_packaging_from_1890.jpg" alt="Ipsum Feugiat" /></a>
+        <header>
+          <span style='font-weight: bold;'>Stollwerck</span>
+          <p>Stellwerk war eine ostdeutsche Schokolade, die noch heute zu finden ist.</p>
+        </header>
+      </div>
+<div class="item">
+        <a href="#" class="image fit"><img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ianyPjo_bc3s/v1/1200x-1.jpg" alt="Ipsum Feugiat" /></a>
+        <header>
+          <span style='font-weight: bold;'>Rotkäppchen</span>
+          <p>Rotkäppchen ist ein DDR-Blase Wein, finden sich noch heute.</p>
+        </header>
+      </div>
+<div class="item">
+        <a href="#" class="image fit"><img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDC6rz0QAfGY/v1/1200x-1.jpg" alt="Ipsum Feugiat" /></a>
+        <header>
+          <span style='font-weight: bold;'>Bautz’ner</span>
+          <p>Bautz’ner war ein ostdeutscher Senf, den man heute noch kaufen kann.</p>
         </header>
       </div>
     </div>
