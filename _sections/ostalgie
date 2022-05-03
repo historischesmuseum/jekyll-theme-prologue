@@ -46,13 +46,6 @@ order: 5
         </header>
       </div>
 <div class="item">
-        <a href="#" class="image fit"><img src="" alt="Ipsum Feugiat" /></a>
-        <header>
-          <span style='font-weight: bold;'></span>
-          <p></p>
-        </header>
-      </div>
-<div class="item">
         <a href="#" class="image fit"><img src="https://anotherimg-dazedgroup.netdna-ssl.com/724/azure/another-prod/330/2/332116.jpg" alt="Ipsum Feugiat" /></a>
         <header>
           <span style='font-weight: bold;'>Trabant Radio</span>
